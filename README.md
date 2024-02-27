@@ -87,8 +87,6 @@ The main features of LPC2148 include the following.
 
 ## STM 32 CUBE PROGRAM :
 ```
-Name : SRINITHI V
-Register Number : 212222110046
 
 #include "main.h"
 
